@@ -1,1 +1,1 @@
-# CPSC_408_Assigment1
+# Assigment 1
