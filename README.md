@@ -9,6 +9,9 @@
 * Course: CPSC-408-02
 * Assignment: SQLite
 
+## Known Errors
+* Some of the fields do not fully handle all types of inputs
+
 ## Source Files  
 * main.py
 
