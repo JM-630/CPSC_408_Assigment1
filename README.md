@@ -14,6 +14,8 @@
 
 ## Source Files  
 * main.py
+* StudentDB.sqlite
+* studens.csv
 
 ## References
 * Diego Murillo (CPSC-408-01)
