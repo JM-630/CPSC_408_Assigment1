@@ -1,5 +1,5 @@
 # Assigment 1
-* receives input from the user to perform various operations on an SQLite database.
+* Receives input from the user to perform various operations such as, Display, Add, Update, Delete, and Search, on an SQLite database.
 
 ## Identifying Information
 
