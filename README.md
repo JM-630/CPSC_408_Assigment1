@@ -11,6 +11,7 @@
 
 ## Known Errors
 * Some of the fields do not fully handle all types of inputs
+* Code not fully commented
 
 ## Source Files  
 * main.py
